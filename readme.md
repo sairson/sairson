@@ -8,4 +8,3 @@
   
 ## notice Many of the projects are fork, please go back to me by the blue team masters, please detour (I only use it for learning)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sairson&show_icons=true&theme=onedark)
