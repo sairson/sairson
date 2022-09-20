@@ -17,4 +17,4 @@
 
 C2 semi-finished products show
   
-<img src="https://user-images.githubusercontent.com/74412075/190376783-23104798-0e7e-480c-81e4-c73c331a17d1.png" style="width:300px;height:auto">
+<img src="https://user-images.githubusercontent.com/74412075/191156987-917151e8-fe5a-4b5d-85f1-febb44348825.png" style="width:350px;height:auto">
