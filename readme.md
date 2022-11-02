@@ -10,12 +10,8 @@
 
 ## Next few little plans
 
-1. Implement Loadlibrary with Go and use it as a library
+1. Complete the Web scanner you use
 
-2. Complete the Web scanner you use
+2. Update and maintain the completed basic C2 framework
 
-3. Complete the weaponized C2 for your own use and as a course design
-
-C2 semi-finished products show
-  
-<img src="https://user-images.githubusercontent.com/74412075/191156987-917151e8-fe5a-4b5d-85f1-febb44348825.png" style="width:350px;height:auto">
+3. Complete an Internet asset/vulnerability scan with the workflow scanner
